@@ -1,3 +1,7 @@
+/**
+ * @author Denis Barushev <barushev@gmail.com>
+ * @since 25.09.2008
+ */
 (function ($) {
     $.fn.ajaxable = function (settings) {
         settings = $.extend({
