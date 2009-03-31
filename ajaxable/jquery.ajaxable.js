@@ -1,4 +1,8 @@
 /**
+ * Ajaxable plugin for jQuery
+ *
+ * http://github.com/denis/jquery-plugins/tree/0434ea4bfca717ab5e30687faca1a99d4b879929/ajaxable
+ *
  * @author Denis Barushev <barushev@gmail.com>
  * @since 25.09.2008
  */
