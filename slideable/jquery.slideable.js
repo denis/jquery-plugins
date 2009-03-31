@@ -1,7 +1,7 @@
 /**
  * Slideable plugin for jQuery
  *
- * http://github.com/denis/jquery-plugins/tree/0434ea4bfca717ab5e30687faca1a99d4b879929/slideable
+ * http://github.com/denis/jquery-plugins
  *
  * @author Denis Barushev <barushev@gmail.com>
  * @since 28.10.2008
