@@ -9,7 +9,7 @@
 (function ($) {
     $.fn.ajaxable = function (settings) {
         settings = $.extend({
-            success: function (html) {},
+            success: function (result) {},
             error: function (error) {}
         }, settings);
 
